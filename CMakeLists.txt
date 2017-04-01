@@ -37,7 +37,7 @@ install(
 )
 
 install(
-    FILES sse2neon.h
+    FILES SSE2NEON.h
     DESTINATION "${include_install_dir}"
 )
 
